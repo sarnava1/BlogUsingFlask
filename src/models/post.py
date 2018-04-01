@@ -2,7 +2,7 @@ import uuid
 from src.common.database import Database
 import datetime
 
-__author__ = 'jslvtr'
+__author__ = 'sarnava'
 
 
 class Post(object):

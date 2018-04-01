@@ -3,7 +3,7 @@ import datetime
 from src.common.database import Database
 from src.models.post import Post
 
-__author__ = 'jslvtr'
+__author__ = 'sarnava'
 
 
 class Blog(object):
